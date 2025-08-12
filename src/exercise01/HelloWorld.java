@@ -19,6 +19,7 @@ public class HelloWorld {
         System.out.println("Dirección: " + direccionUsuario);
         System.out.println("Letra favorita: " + letraFavoritaUsuario);
         System.out.println("Número favorito: " + numeroFavoritoUsuario);
+        System.out.println("Hasta la próxima!");
     }
     
 }
