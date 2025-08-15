@@ -1,4 +1,4 @@
-package exercise01;
+package Exercise01;
 
 public class HelloWorld {
 
