@@ -2,13 +2,13 @@ package Exercise17;
 
 import java.util.Scanner;
 
-public class Exercise17 {
+public class Vector {
 
     public static void main(String[] args) {
         
         int numeros [] = new int [8];
         /* Tambièn se puede hacer de esta segunda manera
-        int numeros [] = {3, 3, 5, 44, 3, 5}
+        int numeros [] = {3, 3, 5, 44, 3, 5};
         */
         
         Scanner teclado = new Scanner(System.in);
